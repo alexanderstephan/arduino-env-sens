@@ -1,7 +1,3 @@
-
-//www.elegoo.com
-//2016.12.9
-
 #include <LiquidCrystal.h>
 #include <SimpleDHT.h>
 
