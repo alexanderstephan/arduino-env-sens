@@ -6,7 +6,7 @@
 
 // WiFi Credentials
 const char* ssid = "FRITZ!Box 6490 Cable";
-const char* password = "21795548533464479754";
+const char* password = "";
 
 // Initialize DHT11 sensor
 SimpleDHT11 dht11;
